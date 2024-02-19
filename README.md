@@ -6,5 +6,6 @@ Chiedi all’utente il suo nome, poi chiedi il suo cognome, poi chiedi il suo co
 1. Chiedere con un prompt all'utente il suo nome e salvarlo in una variabile
 2. Chiedere con un prompt all'utente il suo cognome e salvarlo in una variabile
 3. Chiedere con un prompt all'utente il suo colore preferito e salvarlo in una variabile
-4. Stampare in console il risultato
-5. Stampare in pagina il risultato in un tag HTML
+4. Unire le variabili richieste all'utente per creare la password
+5. Stampare in console il risultato
+6. Stampare in pagina il risultato in un tag HTML
